@@ -13,7 +13,7 @@ Markwon is often used for **blogs** or **posts** and **articles** on social medi
 Even this *Readme* is written in Markdown, although it is a **modified version built for GitHub** which is what you will learn about in this guide.
 
 - ### More...
-For more info about Markdown and its history, check the [Wikepedia page](https://en.wikipedia.org/wiki/Markdown).
+For more info about Markdown and its history, check the [Wikipedia page](https://en.wikipedia.org/wiki/Markdown).
 For more info about how to use Mardown, check GitHub's guide on [getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github).
 
 # Summary
